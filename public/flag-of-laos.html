@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Flag Project</title>
+  <style>
+    * {
+      padding: 0px;
+      margin: 0px;
+    }
+    .flag {
+      width: 900px;
+      height: 600px;
+      background-color: #ce1126;
+    }
+    .flag > p {
+      color: white;
+      font-size: 75px;
+      height: 25px;
+      text-align: center;
+    }
+
+    .flag > div {
+      height: 300px;
+      position: relative;
+      top: 125px;
+      background-color: #002868;
+    }
+
+    .flag > div > div {
+      height: 200px;
+      width: 200px;
+      background-color: white;
+      border-radius: 50%;
+      position: relative;
+      top: 50px;
+      left: 350px;
+    }
+
+    .flag > div > div> p {
+      color: black;
+      font-size: 75px;
+      text-align: center;
+      position: relative;
+      top: 0px;
+      left: 0px;
+    }
+    .Message {
+      text-align: center;
+      width: 900px;
+      height: 100px;
+      font-size: 25px;
+      background-color: white;
+      position: relative;
+      top: 20px;
+    }
+
+
+  </style>
+</head>
+
+<!-- 
+  IMPORTANT! Do not change any HTML
+Don't add any classes/ids/elements 
+Use what you know about combining selectors 
+and CSS specificity instead.
+Hint 1: The flag is 900px by 600px and the circle is 200px by 200px.
+Hint 2: You can use CSS inspection to get the colors from
+https://appbrewery.github.io/flag-of-laos/
+-->
+
+<body>
+  <div class="flag">
+    <p>The Flag</p>
+    <div>
+      <div>
+        <p>of Laos</p>
+      </div>
+    </div>
+  </div>
+  <div class="Message">
+    <p>
+      Devon is now a CSS pro. <br>
+      We cascade all day long baby!
+    </p>
+  </div>
+</body>
+
+</html>
