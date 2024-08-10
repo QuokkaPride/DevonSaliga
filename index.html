@@ -1,31 +1,143 @@
-  
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Talkka the Quokka's Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Devon Saliga</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
+
 <body>
-    <h1>Talkka the Quokka</h1>
-        <h2>Entrepreneur. Software Engineer. Marsupial.</h2>
-    <hr>
-    <img src="assets/images/Quokka.webp" alt="Talkka the Quokka at desk coding" height="350">
-    <h3>Projects</h3>
-        <ul>
-            <li><a href="public/mondrian.html">Homemade Mondrian</a></li>
-            <li><a href="public/flag-of-laos.html">Flag of Laos</a></li>
-            <li><a href="public/grid.html">Queen's Gambit</a></li>
-            <li><a href="public/movie-ranking.html">Movie Ranking</a></li>
-            <li><a href="public/birthday-invite.html">Birthday Roast</a></li>
-            <li><a href="public/inline-block.html">Inline Block Party</a></li>
-        </ul>
-    <br>
-    <h3>Details</h3>
-        <ul>
-            <li><a href="public/about.html">About Me</a></li>
-            <li><a href="public/contact.html">Contact Me</a></li>
-        </ul>
+  <section id="title">
+    <div class="container my-5">
+      <div class="row align-items-center">
+        <div class="col-lg-5 text-center">
+          <h1 class="display-1 fw-bold lh-1 text-body-emphasis">DEVON SALIGA</h1>
+          <div class="mt-4 mb-2">
+            AI Engineer. Entrepreneur. Dog Walker.
+          </div>
+        </div>
+        <div class="col-lg-5 offset-lg-1">
+          <img class="img-fluid" src="assets/images/Devon Saliga Headshot.jpg" alt="Headshot of Devon Saliga">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="highlighted-projects">
+    <div class="container px-4 py-5">
+      <h2 class="pb-2 border-bottom">Highlights</h2>
+      <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+        <div class="col d-flex align-items-start">
+          <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+            <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"></use></svg>
+          </div>
+          <div>
+            <h3 class="fs-2 text-body-emphasis">Beepboop</h3>
+            <p>I founded and led Beepboop, an EdTech company funded by Google Startups & Techstars. Beepboop revolutionizes language learning with low-bandwidth-friendly, audio-only group classes called Drill. Users can create a free account in seconds and join real-time Spanish speaking Drills led by native speakers, making language acquisition both accessible and effective.</p>
+            <a href="https://speak.beepboop.us/signup" class="btn btn-primary">
+              Start Speaking
+            </a>
+          </div>
+        </div>
+
+        <div class="col d-flex align-items-start">
+          <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+            <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+          </div>
+          <div>
+            <h3 class="fs-2 text-body-emphasis">GitHub</h3>
+            <p>I git it done with daily commits.</p>
+            <a href="https://github.com/QuokkaPride" class="btn btn-primary">
+              View Profile
+            </a>
+          </div>
+        </div>
+
+        <div class="col d-flex align-items-start">
+          <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+            <svg class="bi" width="1em" height="1em"><use xlink:href="#tools"></use></svg>
+          </div>
+          <div>
+            <h3 class="fs-2 text-body-emphasis">Stand Up Comedy</h3>
+            <p>Don't you dare tehe at my childhood trauma!</p>
+            <a href="https://www.youtube.com/watch?v=j1OYwbODwSE" class="btn btn-primary">
+              Live, Laugh, Like & Subscribe
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="pricing">
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal text-body-emphasis">Pricing</h1>
+      <p class="fs-5 text-body-secondary">Pay me money every month.</p>
+    </div>
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center justify-content-center">
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Free</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$0<small class="text-body-secondary fw-light">/mo</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Email support</li>
+              <li>Cheerful outlook</li>
+              <li>Friendly disposition</li>
+            </ul>
+            <a href="mailto:devonsaliga@gmail.com" class="w-100 btn btn-lg btn-primary">Contact</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm border-primary">
+          <div class="card-header py-3 text-bg-primary border-primary">
+            <h4 class="my-0 fw-normal">Enterprise</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$25,000<small class="text-body-secondary fw-light">/mo</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Everything in Free</li>
+              <li>CEO & founder expertise</li>
+              <li>Unicorn-scaling experience</li>
+              <li>Product management</li>
+              <li>Full-stack & AI integration development</li>
+              <li>Goldman Sachs Investment Banking-level execution</li>
+              <li>Strategic fundraising</li>
+              <li>Global organization leadership</li>
+            </ul>
+            <a href="assets\resume\24.08.10 Devon Saliga Resume.pdf" class="w-100 btn btn-lg btn-primary">Learn More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <section id="footer">
+    <div class="container">
+      <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
+        <div class="col mb-3">
+          <a href="/" class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none">
+            <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+          </a>
+          <p class="text-body-secondary">© 2024</p>
+        </div>
+        <div class="col mb-3"><a href="silly.html">Silly stuff</a></div>
+        <div class="col mb-3"></div>
+        <div class="col mb-3"></div>
+        <div class="col mb-3"></div>
+      </footer>
+    </div>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
+
 </html>
