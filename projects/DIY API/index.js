@@ -68,10 +68,31 @@ app.patch("/jokes/:id", (req, res) => {
 //7. DELETE Specific joke
 
 app.delete("/jokes/:id", (req, res) => {
-
-}
+  const id = parseInt(req.params.id);
+  const searchIndex = jokes.findIndex(joke => joke.id === id);
+  if (searchIndex > -1) {
+    console.log(`Length before deletion: ${jokes.length}`);
+    jokes.splice(searchIndex, 1); // Remove the joke at the found index
+    console.log(`Length after deletion: ${jokes.length}`);
+    res.sendStatus(200)
+  } else {
+    res.status(404).json({ error: `Joke with id: ${id} was not removed, because it was not found.` });
+  }
+});
 
 //8. DELETE All jokes
+app.delete("/all", (req, res) => {
+  const { key } = req.query; // Extract 'key' from the request query
+  console.log("Received key:", key); // Log the received key
+  if (masterKey === key) {
+    jokes.length = 0; // Clear the array
+    console.log("All jokes have been deleted.");
+    res.sendStatus(200);
+  } else {
+    console.log("Unauthorized access attempt with key:", key); // Log unauthorized access
+    res.status(403).json({ error: "Unauthorized access." });
+  }
+});
 
 app.listen(port, () => {
   console.log(`Successfully started server on port ${port}.`);
