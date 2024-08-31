@@ -18,13 +18,14 @@
       <% }); %>
 
         <input type="submit" name="add" value="new" id="tab">
-        <label for="tab">Add Family Member</label>
+        <label for="tab"><b>Add ur Gurlina</b></label>
 
   </form>
 
   <form action="/add" method="post">
-    <input type="text" name="country" autofocus placeholder="<%= locals.error ? error :  'Enter country name'%>">
-    <button type="submit" style="background-color: <%= color %>;">Add</button>
+    <input type="hidden" name="currentUserId" value="<%= currentUserId %>">
+    <input type="text" name="country" style="border: 3px solid <%= currentUserColor %>;" autofocus placeholder="<%= locals.error ? error :  'Enter country name'%>">
+    <button type="submit" style="background-color: <%= currentUserColor %>;">Add for <%= currentUserName %></button>
   </form>
 
   <section class="ag-canvas">
@@ -391,9 +392,23 @@
     const country_codes = "<%= countries %>".split(",")
     console.log(typeof ("<%= countries %>"))
     country_codes.forEach(code => {
-      document.getElementById(code).style.fill = "<%= color %>"
+      document.getElementById(code).style.fill = "<%= currentUserColor %>"
     });
   </script>
+      <script>
+        // Check if the page has already been refreshed
+        if (!localStorage.getItem('refreshed')) {
+            // Set the flag in localStorage
+            localStorage.setItem('refreshed', 'true');
+            // Refresh the page
+            window.location.reload();
+        } else {
+            // Clear the flag for future renders
+            localStorage.removeItem('refreshed');
+        }
+    </script>
+
+    
 </body>
 
 </html>

@@ -87,11 +87,13 @@ button {
   margin-bottom: -100px; */
   border: 0;
   padding: 15px;
-  color: #ffffff;
+  color: black;
   font-size: 14px;
+  font-weight: bold; /* Added bold text */
   -webkit-transition: all 0.3 ease;
   transition: all 0.3 ease;
   cursor: pointer;
+  
 }
 
 .total-count {

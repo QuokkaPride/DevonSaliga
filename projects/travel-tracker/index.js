@@ -18,6 +18,12 @@ app.use(express.static("public"));
 
 db.connect();
 
+app.post("/user", (req, res) => {
+  res.render("new.ejs");
+});
+
+
+
 let countries = [];
 let total = 0;
 
