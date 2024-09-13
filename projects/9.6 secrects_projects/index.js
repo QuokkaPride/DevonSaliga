@@ -56,11 +56,54 @@ app.get("/logout", (req, res) => {
   });
 });
 
-app.get("/secrets", (req, res) => {
+app.get("/secrets", async (req, res) => {
   if (req.isAuthenticated()) {
-    res.render("secrets.ejs");
+    try {
+      const user = req.user; // Assuming user info is stored in req.user after authentication
+      const result = await db.query("SELECT secret FROM users WHERE email = $1", [
+        user.email, // Use user.email from the authenticated user object
+      ]);
+      const secret = result.rows[0].secret;
+      console.log (secret);
+      // Ensure you pass the correct data to the template, typically result.rows for query results
+      res.render("secrets.ejs", { secret: secret });
+    } catch (error) {
+      console.error("Database query failed:", error);
+      res.status(500).send("Error fetching secret");
+    }
+  } else {
+    res.redirect("/login");
+  }
+});
 
-    //TODO: Update this to pull in the user secret to render in secrets.ejs
+app.get(
+  "/submit", (req, res) => {
+    res.render("submit.ejs")
+  }
+);
+
+app.post("/submit", async (req, res) => {
+  if (req.isAuthenticated()) {
+    try {
+      const email = req.user.email; 
+      const secret = req.body.secret;
+
+      // Assuming you want to update the user's secret
+      const result = await db.query(
+        "UPDATE users SET secret = $1 WHERE email = $2 RETURNING *",
+        [secret, email]
+      );
+
+      // Check if the update was successful
+      if (result.rows.length > 0) {
+        res.render("secrets.ejs", { secret: secret });
+      } else {
+        res.status(404).send("User not found");
+      }
+    } catch (error) {
+      console.error("Database operation failed:", error);
+      res.status(500).send("Error updating secret");
+    }
   } else {
     res.redirect("/login");
   }
