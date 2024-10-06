@@ -9,3 +9,4 @@ I am starting late in life, but that won't stop me.
 24.10.03 Motoko conditionals & orthogonal persistence 
 24.10.04 Added compound interest calc to ICP app
 24.10.05 firestore research
+24.10.06 firestore youtube videos + ICP app
