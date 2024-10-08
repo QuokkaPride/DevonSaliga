@@ -11,3 +11,4 @@ I am starting late in life, but that won't stop me.
 24.10.05 firestore research
 24.10.06 firestore youtube videos + ICP app
 24.10.07 frontend work for ICP app
+24.10.08 Using js in keeper app on ICP
