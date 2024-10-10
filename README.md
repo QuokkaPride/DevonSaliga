@@ -13,3 +13,4 @@ I am starting late in life, but that won't stop me.
 24.10.07 frontend work for ICP app
 24.10.08 Using js in keeper app on ICP
 24.10.09 Trying to get out of dependency hell with my google cloudfunctions. 
+24.10.10 Motoko dapp to check balance 
