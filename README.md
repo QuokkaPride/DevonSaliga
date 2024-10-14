@@ -16,3 +16,4 @@ I am starting late in life, but that won't stop me.
 24.10.10 Motoko dapp to check balance 
 24.10.11 Motoko dapp transfer function working for tokens.
 24.10.12 Meeting with Lucas to get help on google cloud build and creating a dockerimage without a dockerfile that runs Firebase cloud functions. Goal is to get stage test env up and running and finally get out of dependency hell. 
+24.10.13 Fireship videos on firebase functions. Need to get out of dependency hell. 
