@@ -18,3 +18,4 @@ I am starting late in life, but that won't stop me.
 24.10.12 Meeting with Lucas to get help on google cloud build and creating a dockerimage without a dockerfile that runs Firebase cloud functions. Goal is to get stage test env up and running and finally get out of dependency hell. 
 24.10.13 Fireship videos on firebase functions. Need to get out of dependency hell. 
 24.10.14 Using google buildpacks to build base image for firestore cloud functions
+24.10.15 Finally out of dependency hell after over 1 month! Lesson learned: ask for help sooner. I also submited my changes to an open sourced project where the instructions were only for mac's and no windows. 
