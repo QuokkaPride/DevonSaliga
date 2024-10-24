@@ -20,3 +20,4 @@ I am starting late in life, but that won't stop me.
 24.10.14 Using google buildpacks to build base image for firestore cloud functions
 24.10.15 Finally out of dependency hell after over 1 month! Lesson learned: ask for help sooner. I also submited my changes to an open sourced project where the instructions were only for mac's and no windows. 
 24.10.21 Silly python game https://replit.com/@devon17/PlayingAround#main.py
+24.10.24 Made python caesar cipher. Also spent hours trying to get apis working between Teach and Speak app that calculates total drills taken and displays next to each student a class.   
