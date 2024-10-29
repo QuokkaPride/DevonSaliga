@@ -24,3 +24,4 @@ I am starting late in life, but that won't stop me.
 24.10.25 Made python calculator. Got total drills calculating. Involved db queries, API calls, and lots of advanced react features!!!!!
 24.10.27 React useState work 
 24.10.28 Python prime number determiner. Python number guessing game. Made jenky place where anyone can play my games: https://replit.com/@devon17/PlayingAround#main.py
+24.10.29 Python higher lower game. improved UI of my game database https://replit.com/@devon17/PlayingAround
