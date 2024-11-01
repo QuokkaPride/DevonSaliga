@@ -50,3 +50,5 @@ I am starting late in life, but that won't stop me.
 24.10.30 Python os for coffee machine. https://replit.com/@devon17/PlayingAround
 
 24.10.31 Python objets and classes work. JS Beepboop work trying to get student docs in firestore to update after lessons. 
+
+11.01.01 JS Finally got studentLessons docs to update was wasPromoted and wasAttended in local. Payday today for Beepboop. 
