@@ -51,4 +51,6 @@ I am starting late in life, but that won't stop me.
 
 24.10.31 Python objets and classes work. JS Beepboop work trying to get student docs in firestore to update after lessons. 
 
-11.01.01 JS Finally got studentLessons docs to update was wasPromoted and wasAttended in local. Payday today for Beepboop. 
+24.11.01 JS Finally got studentLessons docs to update was wasPromoted and wasAttended in local. Payday today for Beepboop. 
+
+24.11.02 Used OpenAI whisper in python to transcribe beepboop audio of me explaining how performance metrics are calculated and why they're important. Shared with team. 
