@@ -54,3 +54,5 @@ I am starting late in life, but that won't stop me.
 24.11.01 JS Finally got studentLessons docs to update was wasPromoted and wasAttended in local. Payday today for Beepboop. 
 
 24.11.02 Used OpenAI whisper in python to transcribe beepboop audio of me explaining how performance metrics are calculated and why they're important. Shared with team. 
+
+24.11.03 Python turtle race
