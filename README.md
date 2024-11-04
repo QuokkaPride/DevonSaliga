@@ -55,4 +55,6 @@ I am starting late in life, but that won't stop me.
 
 24.11.02 Used OpenAI whisper in python to transcribe beepboop audio of me explaining how performance metrics are calculated and why they're important. Shared with team. 
 
-24.11.03 Python turtle race
+24.11.03 Built Python turtle race
+
+24.11.04 Built Python snake game
