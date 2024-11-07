@@ -60,3 +60,7 @@ I am starting late in life, but that won't stop me.
 24.11.04 Built half of Python snake game. Huge react dev milesetone: when legacy students log in and book  a class, script runs in background that updates how many total class and total promotiosn they've had and saves it to their student document in firestore. 
 
 24.11.05 Finished Python snake game! 
+
+24.11.06 Working on python pong game.
+
+
