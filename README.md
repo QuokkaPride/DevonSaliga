@@ -63,4 +63,6 @@ I am starting late in life, but that won't stop me.
 
 24.11.06 Working on python pong game.
 
+24.11.07 Traggic finished my python pong game but forgot to update git 
 
+24.11.08 Making a turtle crossing road game 
