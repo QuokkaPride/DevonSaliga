@@ -66,3 +66,9 @@ I am starting late in life, but that won't stop me.
 24.11.07 Traggic finished my python pong game but forgot to update git 
 
 24.11.08 Making a turtle crossing road game 
+
+24.11.09 Got rendering working in TeachApp and deployed to stage.
+
+24.11.09 TeachApp and Cloud Functions deployment at Beepboop went perfectly! NGL feel on top of the world.  
+
+24.11.10 Figuring out file paths in Python to update files stored locally
