@@ -74,3 +74,7 @@ I am starting late in life, but that won't stop me.
 24.11.10 Figuring out file paths in Python to update files stored locally
 
 24.11.11 Manipulating data in csv in python 
+
+24.11.12 traveling to nyc. No progress made. 
+
+24.11.13 Made guessing states game on map. Saved missing states to csv. 
