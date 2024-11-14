@@ -78,3 +78,6 @@ I am starting late in life, but that won't stop me.
 24.11.12 traveling to nyc. No progress made. 
 
 24.11.13 Made guessing states game on map. Saved missing states to csv. 
+
+24.11.14 Python *args *kwargs and using Tkinter for building GUI
+
