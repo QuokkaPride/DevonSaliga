@@ -1,4 +1,4 @@
-][https://quokkapride.github.io/DevonSaliga
+https://quokkapride.github.io/DevonSaliga
 
 A website tracking the rapid progress I am making becoming the world's best engineer.
 I am starting late in life, but that won't stop me. 
@@ -84,3 +84,5 @@ I am starting late in life, but that won't stop me.
 24.11.15 Python tiny timer. First downloadabled app.
 
 24.11.16 Python password creator
+
+24.11.17 Tiny Timer app after two days of use, was prevented to be opened by windows virus protecter. Learned I likely need to do CA before I distribute software. Also updated Python Password creator to write to JSON files instead of text. 
