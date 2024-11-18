@@ -86,3 +86,5 @@ I am starting late in life, but that won't stop me.
 24.11.16 Python password creator
 
 24.11.17 Tiny Timer app after two days of use, was prevented to be opened by windows virus protecter. Learned I likely need to do CA before I distribute software. Also updated Python Password creator to write to JSON files instead of text. Made python flashcard program. 
+
+24.11.18 made Python STMP email automation to read CSV and send birthday emails out. Connected projected folder to git https://github.com/QuokkaPride/Python100
