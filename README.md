@@ -90,3 +90,8 @@ I am starting late in life, but that won't stop me.
 24.11.18 made Python STMP email automation to read CSV and send birthday emails out. Connected projected folder to git https://github.com/QuokkaPride/Python100
 
 24.11.19 Python APIs and STMP 
+
+24.11.20-21.11.24 Have been publishing projects directly to https://github.com/QuokkaPride/Python100
+
+24.11.26 pausing python dev to launch AI stories with genkit for Blackfriday product launch and Beepboop sale. 
+
