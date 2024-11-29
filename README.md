@@ -1,4 +1,4 @@
-https://quokkapride.github.io/DevonSaliga
+nohttps://quokkapride.github.io/DevonSaliga
 
 A website tracking the rapid progress I am making becoming the world's best engineer.
 I am starting late in life, but that won't stop me. 
@@ -94,4 +94,6 @@ I am starting late in life, but that won't stop me.
 24.11.20-21.11.24 Have been publishing projects directly to https://github.com/QuokkaPride/Python100
 
 24.11.26 pausing python dev to launch AI stories with genkit for Blackfriday product launch and Beepboop sale. 
+
+24.11.28 sale banner 
 
