@@ -97,3 +97,5 @@ I am starting late in life, but that won't stop me.
 
 24.11.28 sale banner 
 
+24.11.29 got google text to speech working for dialogs! 
+
