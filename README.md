@@ -99,3 +99,6 @@ I am starting late in life, but that won't stop me.
 
 24.11.29 got google text to speech working for dialogs! 
 
+24.12.03 massive issues with ES6 and CommonJS in cloud functions. Also fact that Genkit require v2 firebase fucntion and project is v1. Can't get front end to call genkit functions.
+
+24.12.04 same issues as yestday. 
