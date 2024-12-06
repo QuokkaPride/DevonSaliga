@@ -103,4 +103,6 @@ I am starting late in life, but that won't stop me.
 
 24.12.04 same issues as yestday. 
 
-24.12.05 custome middleware post functions upgrade likely issue. This is painful. 
+24.12.05 custom middleware post functions upgrade likely issue. This is painful. After 8 hours of straight troubleshooting I lose hope. I know I can overcome it tough!  
+
+24.12.06 Still in a jam. Need to launch Beepboop Stories this week. Going to try to revert all pacakges back to when they wre working in harmony for basic functionality and then try something different with genkit. Is programming on a legacy codebase just dependency hell? Remind myself how much I'm learning and stay positive. 
