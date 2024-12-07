@@ -106,3 +106,6 @@ I am starting late in life, but that won't stop me.
 24.12.05 custom middleware post functions upgrade likely issue. This is painful. After 8 hours of straight troubleshooting I lose hope. I know I can overcome it tough!  
 
 24.12.06 Still in a jam. Need to launch Beepboop Stories this week. Going to try to revert all pacakges back to when they wre working in harmony for basic functionality and then try something different with genkit. Is programming on a legacy codebase just dependency hell? Remind myself how much I'm learning and stay positive. 
+
+24.12.07  Issue resolved last night! Valuable lesson learned: 1) If you launch a feature (no matter how small) do testing before doing anything like a package update. My issue was actually my feature change, not  my package upgrade (which I spent days trying to fix because I was convinced I needed to resolve the breaking changes inorder to launch my feature).   
+
