@@ -1,4 +1,4 @@
-nohttps://quokkapride.github.io/DevonSaliga
+nonohttps://quokkapride.github.io/DevonSaliga
 
 A website tracking the rapid progress I am making becoming the world's best engineer.
 I am starting late in life, but that won't stop me. 
@@ -109,3 +109,4 @@ I am starting late in life, but that won't stop me.
 
 24.12.07  Issue resolved last night! Valuable lesson learned: 1) If you launch a feature (no matter how small) do testing before doing anything like a package update. My issue was actually my feature change, not  my package upgrade (which I spent days trying to fix because I was convinced I needed to resolve the breaking changes inorder to launch my feature).   
 
+24.12.09 Started implementing user feedback. Adding audio controls. 
