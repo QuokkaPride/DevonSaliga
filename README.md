@@ -110,3 +110,7 @@ I am starting late in life, but that won't stop me.
 24.12.07  Issue resolved last night! Valuable lesson learned: 1) If you launch a feature (no matter how small) do testing before doing anything like a package update. My issue was actually my feature change, not  my package upgrade (which I spent days trying to fix because I was convinced I needed to resolve the breaking changes inorder to launch my feature).   
 
 24.12.09 Started implementing user feedback. Adding audio controls. 
+
+24.12.12 Developed E-Notation prompt to Spanish dialogs can be created with different English level codings (E1, E2, E3 etc) representing the frequency of english translated words. Making a parser to send cleaned text approriate for the level of English translation desired by student. 
+
+ 
