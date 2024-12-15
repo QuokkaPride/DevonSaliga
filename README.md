@@ -113,4 +113,4 @@ I am starting late in life, but that won't stop me.
 
 24.12.12 Developed E-Notation prompt to Spanish dialogs can be created with different English level codings (E1, E2, E3 etc) representing the frequency of english translated words. Making a parser to send cleaned text approriate for the level of English translation desired by student. 
 
- 
+24.12.25 Backend work for stories.
