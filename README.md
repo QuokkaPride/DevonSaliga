@@ -116,3 +116,9 @@ I am starting late in life, but that won't stop me.
 24.12.15 Backend migration for stories.
 
 24.12.16 Backend migration for stories.
+
+24.12.19 Beepboop Stories is looking amazing. Really proud of it so far. May rebrand to "adventures" as the AI comoponent will give students a greator control of how the stories play out. Check it out: speak.beepboop.us/stories. Yesterday I looked at all the feedbac I got from students on what I created and I was able to knock so many out one by one. It was my best programming day ever. It's so nice to improve thing in producion that you've build from scratch. THere is no mystery to uncover and just pure progress! What a thrill! 
+
+24.12.20 Boring day of connecting backend to front so stories can be automatically added to db from genkit then edited without manually touching the db.  
+
+24.12.21 Google is killing me. They sold their domains business to squarespace, who doesn't support wildcard subdomains and UTM forwarding (why are they even in this business without those!). Features critical for us to maintain the health of our marketing channels (track where clicks are and more importnly ARE NOT coming from so we can go see why. I'm stoping all dev work on fun things until I find a new provider and fix this. I wish the PM at google was more on their game and notified us of this risk so we could have prepared.  
