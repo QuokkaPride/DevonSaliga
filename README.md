@@ -124,3 +124,5 @@ I am starting late in life, but that won't stop me.
 24.12.21 Google is killing me. They sold their domains business to squarespace, who doesn't support wildcard subdomains and UTM forwarding (why are they even in this business without those!). Features critical for us to maintain the health of our marketing channels (track where clicks are and more importnly ARE NOT coming from so we can go see why. I'm stoping all dev work on fun things until I find a new provider and fix this. I wish the PM at google was more on their game and notified us of this risk so we could have prepared.  
 
 24.23.24 Feel on on top of the world. The switch to cloudfare worked and caused zero distruption to classes). I stil can't figure out how to get the images from cloudstorage to laod with out a secuirty warning. Need an SSL cert. Cloudfare is amazing though. You can do all this advanced routing logic with js. Now all our UTMs are be tracked! We are blessed. 
+
+24.12.25 Fireship data modeling course 
