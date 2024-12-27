@@ -128,3 +128,5 @@ I am starting late in life, but that won't stop me.
 24.12.25 Fireship data modeling course
 
 24.12.26 Got stage test enviroement working on cloudfare. All DNS migration to cloudfare tests passed!
+
+24.12.27 Working on auto assigning voices for characters with backup selection logic when there are conflicts. 
