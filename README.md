@@ -132,3 +132,5 @@ I am starting late in life, but that won't stop me.
 24.12.27 Working on auto assigning voices for characters with backup selection logic when there are conflicts. 
 
 25.01.01 Updated macro to automate payment to team today. 
+
+25.01.02 Worked on tech and AI goals for year. 
