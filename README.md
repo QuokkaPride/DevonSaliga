@@ -1,4 +1,4 @@
-https://quokkapride.github.io/DevonSaliga
+myhttps://quokkapride.github.io/DevonSaliga
 
 A website tracking the rapid progress I am making becoming the world's best engineer.
 I am starting late in life, but that won't stop me. 
@@ -136,3 +136,5 @@ I am starting late in life, but that won't stop me.
 25.01.02 Worked on tech and AI goals for year. 
 
 25.01.03 Exploring ML courses. Will give https://see.stanford.edu/course/cs229 3 lectures. Want to make sure I'm able to apply concepts immediately into projects. 
+
+25.02.04 enotiation for stories. working on training data for E1 breakdown of sentences. 
