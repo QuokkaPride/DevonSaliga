@@ -138,3 +138,5 @@ I am starting late in life, but that won't stop me.
 25.01.03 Exploring ML courses. Will give https://see.stanford.edu/course/cs229 3 lectures. Want to make sure I'm able to apply concepts immediately into projects. 
 
 25.02.04 enotiation for stories. working on training data for E1 breakdown of sentences. 
+
+25.02.05 finished story 3 E1 notation manual markup 
