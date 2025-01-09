@@ -140,3 +140,5 @@ I am starting late in life, but that won't stop me.
 25.02.04 enotiation for stories. working on training data for E1 breakdown of sentences. 
 
 25.02.05 finished story 3 E1 notation manual markup 
+
+25.02.07 story 4 generated ans prompt updated. 
