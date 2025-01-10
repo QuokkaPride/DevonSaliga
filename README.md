@@ -141,4 +141,6 @@ I am starting late in life, but that won't stop me.
 
 25.02.05 finished story 3 E1 notation manual markup 
 
-25.02.07 story 4 generated ans prompt updated. 
+25.01.07 story 4 generated ans prompt updated. 
+
+25.01.09 on vacation. just watched genkit rag video 
