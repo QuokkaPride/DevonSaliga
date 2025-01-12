@@ -146,3 +146,6 @@ I am starting late in life, but that won't stop me.
 25.01.09 on vacation. just watched genkit rag video 
 
 25.01.10 on vacation. reading text book on game design for stories inspiration 
+
+25.01.10 same 
+
