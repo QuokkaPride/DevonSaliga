@@ -147,5 +147,5 @@ I am starting late in life, but that won't stop me.
 
 25.01.10 on vacation. reading text book on game design for stories inspiration 
 
-25.01.10 same 
+25.01.15 vacation over. 250 pages of game design book worked through. 
 
