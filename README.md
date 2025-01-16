@@ -1,4 +1,4 @@
-myhttps://quokkapride.github.io/DevonSaliga
+mi omyhttps://quokkapride.github.io/DevonSaliga
 
 A website tracking the rapid progress I am making becoming the world's best engineer.
 I am starting late in life, but that won't stop me. 
@@ -149,3 +149,4 @@ I am starting late in life, but that won't stop me.
 
 25.01.15 vacation over. 250 pages of game design book worked through. 
 
+25.01.16 set okrs for beepboop and personal 
