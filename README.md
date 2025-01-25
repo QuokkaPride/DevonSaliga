@@ -150,3 +150,5 @@ I am starting late in life, but that won't stop me.
 25.01.15 vacation over. 250 pages of game design book worked through. 
 
 25.01.16 set okrs for beepboop and personal 
+
+convo with Kirsten about transition to dev world 
