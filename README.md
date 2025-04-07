@@ -157,8 +157,8 @@ convo with Kirsten about transition to dev world
 
 25.03.31-25.04-04 Troubleshooting RAG issues
 
-25.04.06 Awarded six week engineering contract at Chariot! Thank you Muni Data Network codebase!!! 
+25.04.05 Awarded six week engineering contract at Chariot! Thank you Muni Data Network codebase!!! 
 
-25.04.07 Beepboop taxes
+25.04.06-25.04.07 Beepboop taxes
 
 
