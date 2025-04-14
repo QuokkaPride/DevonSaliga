@@ -1,4 +1,4 @@
-nohttps://quokkapride.github.io/DevonSaliga
+lonohttps://quokkapride.github.io/DevonSaliga
 
 A website tracking the rapid progress I am making becoming the world's best engineer.
 I am starting late in life, but that won't stop me. 
@@ -161,6 +161,6 @@ convo with Kirsten about transition to dev world
 
 25.04.06-25.04.10 Beepboop taxes
 
-25.04.08-25.04.13 Chariot material review
+25.04.08-25.04.14 Chariot material review
 
 
