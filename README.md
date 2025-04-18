@@ -159,7 +159,7 @@ convo with Kirsten about transition to dev world
 
 25.04.05 Awarded six week engineering contract at Chariot! Thank you Muni Data Network codebase!!! 
 
-25.04.06-25.04.16 Beepboop taxes
+25.04.06-25.04.18 Beepboop taxes
 
 25.04.08-25.04.17 Chariot material review
 
